@@ -1,0 +1,7 @@
+WP Scan, een wordpress scanner voor veiligheidsfouten
+https://wpscan.org/
+https://github.com/wpscanteam/wpscan
+
+
+Gebruik als volgt:
+sudo docker run -it --rm wpscanteam/wpscan  --user-agent 'Mozilla/5.0 (compatible; WOW64; MSIE 10.0; Windows NT 6.2)' --url

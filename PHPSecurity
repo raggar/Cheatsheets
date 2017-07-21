@@ -1,0 +1,18 @@
+Een lijst met filters voor Intrusion Detection
+https://github.com/PHPIDS/PHPIDS/tree/master/lib/IDS
+
+Een php ini file scanner. Kijkt naar de problemen van een ini file. In mijn ogen nog niet compleet, maar geeft wel een paar goede punten
+https://github.com/psecio/iniscan/tree/master/src/Psecio/Iniscan
+
+PHP Quality Assurance tool om te kijken naar de opzet van de PHP code. Het combineert verschillende tools samen. Kan handig zijn voor analyse van sourcecode:
+https://github.com/EdgedesignCZ/phpqa
+
+Algemene lijst met PHP security zaken:
+https://github.com/ziadoz/awesome-php#security
+
+WP Scan, een wordpress scanner voor veiligheidsfouten
+https://wpscan.org/
+https://github.com/wpscanteam/wpscan
+
+API ontwikkeling, waar op te letten. Output headers zijn interessant en compleet
+https://github.com/shieldfy/API-Security-Checklist/blob/master/README-nl.md
